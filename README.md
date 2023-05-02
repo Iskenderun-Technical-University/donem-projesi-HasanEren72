@@ -9,7 +9,8 @@ Oyuncu isteğe bağlı 1.şahıs veya 3. Şahıs şeklinde oynanabilmeyi sağlam
 
 Oyuncu ve düşmanların can sistemini ve gerekli tüm canvas sistemini efektif bir şekilde yapmayı planlıyorum. Ve gerekli veri kaydetme işlemlerini de yapmayı planlıyorum.
 
-
+# Oyun akış diagramı:
+![diagram](https://github.com/HasanEren72/donem-projesi-HasanEren72/diagram.png)
 # Yöntem ve Metodlar
 Unity diğer oyun motorlarına kıyasla daha işlevsel ve çoklu platformlara yönelik Oyun
 geliştirmeyi sağlayan güçlü bir oyun motorudur.
