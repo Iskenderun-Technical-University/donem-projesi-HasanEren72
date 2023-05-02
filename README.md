@@ -11,6 +11,7 @@ Oyuncu ve düşmanların can sistemini ve gerekli tüm canvas sistemini efektif 
 
 # Oyun akış diagramı:
 ![diagram](https://github.com/Iskenderun-Technical-University/donem-projesi-HasanEren72/blob/main/resimler)
+
 # Yöntem ve Metodlar
 Unity diğer oyun motorlarına kıyasla daha işlevsel ve çoklu platformlara yönelik Oyun
 geliştirmeyi sağlayan güçlü bir oyun motorudur.
