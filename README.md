@@ -30,7 +30,7 @@ Bunlar arsında bana en uygun olanı Unity olduğu için  oyun motoru olarak Uni
 
 Veritabanı işlemleri için  PHP kullanılacaktır.
 
-Veritabanı için ise de MY SQL Server kullanmayı planlıyorum..
+Veritabanı için ise de MY SQL Server kullanmayı planlıyorum.
 
 
 
